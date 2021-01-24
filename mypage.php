@@ -6,6 +6,6 @@
     <title>My Home Page</title>
 </head>
 <body>
-   home
+   <h1>My Home</h1>
 </body>
 </html>
